@@ -25,5 +25,5 @@ Busco minha primeira oportunidade como desenvolvedora Back-end, seja estágio ou
 
 📬 **Meus Contatos:**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-paschoal-gonçalves-31b735223/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfelipepaschoal/)
 <a href = "mailto:luizfelipepaschoalgoncalves@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
