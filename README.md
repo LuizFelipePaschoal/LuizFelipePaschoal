@@ -8,7 +8,7 @@ Atualmente Fazendo Projetos para melhorar as minhas habilidades.
 - Inglês.
 
 💼 **Objetivo Profissional:**  
-Busco minha primeira oportunidade como desenvolvedora Back-end, seja estágio ou dev júnior.
+Busco minha primeira oportunidade como desenvolvedor Back-end, seja estágio ou dev júnior.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizFelipePaschoal&show_icons=true&theme=radical&cache_seconds=1800)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipePaschoal&layout=compact&theme=radical&cache_seconds=1800)
